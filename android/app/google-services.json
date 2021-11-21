@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021919500773",
+    "project_id": "sample-project-c4437",
+    "storage_bucket": "sample-project-c4437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021919500773:android:91d6b25d83620783d8770c",
+        "android_client_info": {
+          "package_name": "com.example.ribal_assaf_takehometask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021919500773-q3229oeuc25uueh8grfgheggk7lj0m1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDkZtahILdi7qB5rDRaANKox4JHld9cm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021919500773-q3229oeuc25uueh8grfgheggk7lj0m1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
